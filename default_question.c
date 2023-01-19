@@ -22,7 +22,7 @@ int main()
 	write_questions(); //for initialization
 
      printf("\n\t\t****************************************");
-     printf("\n\t\t\t   WELCOME TO QUIZ GAME");
+     printf("\n\t\t\t  WELCOME TO QUIZ GAME");
      printf("\n\t\t****************************************");
      printf("\n\t\t***********************************************");
      printf("\n\t\t   HIMALYAN WHITE HOUSE INTERNATIONAL COLLEGE") ;
